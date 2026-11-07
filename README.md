@@ -28,7 +28,7 @@ Only the selected engine is loaded and kept warm.
 With Homebrew:
 
 ```sh
-brew tap YashSharmaa/tap && brew install voxdesk
+brew tap YashSharmaa/tap && brew trust yashsharmaa/tap && brew install voxdesk
 cp -R "$(brew --prefix voxdesk)/VoxDesk.app" /Applications/
 ```
 
