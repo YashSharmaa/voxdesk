@@ -2,7 +2,7 @@ class Voxdesk < Formula
   desc "Local menu-bar dictation for macOS with Parakeet and Whisper on Core ML"
   homepage "https://github.com/YashSharmaa/voxdesk"
   url "https://github.com/YashSharmaa/voxdesk/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "SHA256_PLACEHOLDER"
+  sha256 "fcbf2cbb6f909155f4f0eee6a8d8acde731f21b10fd0472ef2de7ad2a24ed2fa"
   license "MIT"
 
   depends_on arch: :arm64
